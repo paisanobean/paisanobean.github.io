@@ -2,12 +2,16 @@ html {
   scroll-behavior: smooth;
 }
 
+a {
+  color: #00b09b;
+}
+
 body {
   margin: 0;
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #3a5a40;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -62,7 +66,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #dad7cd;
   font-size: 24px;
   font-family: 'Spectral', serif;
 }
